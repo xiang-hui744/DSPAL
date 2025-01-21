@@ -7,7 +7,7 @@
 </p>
 
 ## Datasets 
->We evaluate the AL algorithms in 6 Natural Lagnuage Processing (NLP)  datasets:
+>We evaluate the AL algorithms in 6 Natural Language Processing (NLP)  datasets:
 -  `TREC`, `IMDB`, `AGNEWS`, `DBPEDIA`, `Yelp-full` ,`Yahoo!Answers`
 
 ## Models
