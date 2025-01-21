@@ -3,7 +3,7 @@
 >This repository contains the official implementation of the paper titled "DSPAL: Dynamic Soft Prompt for Few-shot Active Learning".
 
 <p align="center">
-  <img src="DSPAL_figure.png" width="500">
+  <img src="DSPAL_figure.png" width="800">
 </p>
 
 ## Datasets 
